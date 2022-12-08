@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joshuadaniel97
 - 👀 I’m interested in sports, health and fitness.
 - 👨🏿‍💻 I’m currently learning software engineering with Love Circular. 
-- 😎 I’m looking to collaborate on any projects.
+- 😎 My favourite quote is it is what it is
 - 📫 You can reach me through instagram @joshua_daniel_ and twitter @_joshua_daniel
 
 <!---
